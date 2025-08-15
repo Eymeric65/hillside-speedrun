@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Keyboard_CS")(type "KiCad")(uri "D:/keyboard-kicad-lib/Keyboard_CS.pretty")(options "")(descr ""))
+)
